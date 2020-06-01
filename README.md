@@ -4,6 +4,10 @@
 
 **By**: *Codenation*
 
+## Outros contatos profissionais
+- E-mail: **kaikewesley@hotmail.com**
+- LinkedIn: [**Perfil**](https://www.linkedin.com/in/kaike-wesley-reis/)
+
 ## Sumário
 
 ### [Desafio para seleção - 0](https://github.com/KaikeWesleyReis/codenation-aceleradev-datascience/tree/master/desafio_0)
