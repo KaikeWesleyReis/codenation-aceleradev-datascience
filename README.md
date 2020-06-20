@@ -14,6 +14,8 @@
 - A partir de um banco de dados fazer a predição das notas de matemática do ENEM 2016
 
 ### Semana 1
-- Semana de introdução a área de Data Science. Sem desafios em código.
+- Semana de introdução a área de Data Science. **Sem desafios em código**.
 
+### [Semana 2](https://github.com/KaikeWesleyReis/codenation-aceleradev-datascience/tree/master/semana_2)
+- Aprendizagem de manipulação de dados com `pandas`
 ...
