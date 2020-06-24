@@ -20,11 +20,15 @@ Neste desafio você aprenderá:
 A resposta deve conter os valores da média, mediana, moda e desvio padrão da pontuação de crédito para cada estado do dataset.
 O arquivo para submissão deve estar em formato json, conforme o arquivo exemplo "submission.json".
 
-**OBSERVAÇÃO 1:**  É recomendado utilizar Python e pandas para esse desafio, mas também é possível utilizar outras ferramentas e linguagens de programação.
+**OBSERVAÇÃO 1**
 
-**OBSERVAÇÃO 2:**  Os dados são fictícios, mas tentam representar a realidade de uma base de clientes de um produto SaaS.
+É recomendado utilizar Python e pandas para esse desafio, mas também é possível utilizar outras ferramentas e linguagens de programação.
 
-**Descrição dos dados**
+**OBSERVAÇÃO 2** 
+
+Os dados são fictícios, mas tentam representar a realidade de uma base de clientes de um produto SaaS.
+
+**DESCRIÇÃO DOS DADOS**
 
 `'id'`: Identificador do cliente
 
