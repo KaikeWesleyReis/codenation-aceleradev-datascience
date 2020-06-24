@@ -22,19 +22,29 @@ O arquivo para submissão deve estar em formato json, conforme o arquivo exemplo
 
 **OBSERVAÇÃO:**  É recomendado utilizar Python e pandas para esse desafio, mas também é possível utilizar outras ferramentas e linguagens de programação.
 
-Descrição dos dados:
-'id': Identificador do cliente
-'sobrenome': Sobrenome do cliente
-'pontuacao_credito': Pontuação de crédito do cliente (quanto maior, melhor o cliente geralmente)
-'estado_residencia': Estado de residência do cliente
-'genero': Gênero do cliente
-'nivel_estabilidade': Nível de estabilidade do cliente
-'saldo_conta': Saldo disponível na conta do cliente
-'numero_produtos': Número de produtos que o cliente consome
-'possui_cartao_de_credito': Possui um cartão de crédito cadastrado
-'membro_ativo': Membro acessa e consome frequentemente
+**Descrição dos dados:**
 
-Obs: Os dados são fictícios, mas tentam representar a realidade de uma base de clientes de um produto SaaS. 
+`'id'`: Identificador do cliente
+
+`'sobrenome'`: Sobrenome do cliente
+
+`'pontuacao_credito'`: Pontuação de crédito do cliente (quanto maior, melhor o cliente geralmente)
+
+`'estado_residencia'`: Estado de residência do cliente
+
+`'genero'`: Gênero do cliente
+
+`'nivel_estabilidade'`: Nível de estabilidade do cliente
+
+`'saldo_conta'`: Saldo disponível na conta do cliente
+
+`'numero_produtos'`: Número de produtos que o cliente consome
+
+`'possui_cartao_de_credito'`: Possui um cartão de crédito cadastrado
+
+`'membro_ativo'`: Membro acessa e consome frequentemente
+
+**Obs final**: Os dados são fictícios, mas tentam representar a realidade de uma base de clientes de um produto SaaS. 
 
 
 
