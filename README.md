@@ -19,4 +19,7 @@
 ### [Semana 2](https://github.com/KaikeWesleyReis/codenation-aceleradev-datascience/tree/master/semana_2)
 - Aprendizagem de manipulação de dados com `pandas` em Python.
 
+### [Semana 3](https://github.com/KaikeWesleyReis/codenation-aceleradev-datascience/tree/master/semana_3)
+- Análise de pontuação de crédito (ficticia) através da avaliação de algumas estatísticas descritivas: média, a mediana, a moda e o desvio padrão. Ao final o resultado é gerado no formato `.json`.
+
 ...
