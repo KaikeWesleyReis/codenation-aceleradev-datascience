@@ -15,18 +15,6 @@ Neste desafio você aprenderá:
 - Moda;
 - Desvio padrão.
 
-## Requisitos
-
-Você precisará de python 3.6 (ou superior).
-
-O recomendado é você utilizar um [ambiente virtual](https://pythonacademy.com.br/blog/python-e-virtualenv-como-programar-em-ambientes-virtuais). Para isto, execute os comandos como no exemplo abaixo:
-
-    pip3 install virtualenv
-    virtualenv venv -p python3
-    source venv/bin/activate 
-
-Ao terminar o desafio, você pode sair do ambiente criado com o comando `deactivate`
-
 ## Detalhes
 
 A resposta deve conter os valores da média, mediana, moda e desvio padrão da pontuação de crédito para cada estado do dataset.
