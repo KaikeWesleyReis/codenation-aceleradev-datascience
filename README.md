@@ -24,4 +24,5 @@
 
 ### [Semana 4](https://github.com/KaikeWesleyReis/codenation-aceleradev-datascience/tree/master/semana_4)
 - Aprendizagem de estatística básica, compreendendo melhor distribuição normal e binomial.
+
 ...
