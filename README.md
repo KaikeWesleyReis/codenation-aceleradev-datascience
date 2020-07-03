@@ -22,4 +22,6 @@
 ### [Semana 3](https://github.com/KaikeWesleyReis/codenation-aceleradev-datascience/tree/master/semana_3)
 - Análise de pontuação de crédito (ficticia) através da avaliação de algumas estatísticas descritivas: média, a mediana, a moda e o desvio padrão. Ao final o resultado é gerado no formato `.json`.
 
+### [Semana 4](https://github.com/KaikeWesleyReis/codenation-aceleradev-datascience/tree/master/semana_4)
+- Aprendizagem de estatística básica, compreendendo melhor distribuição normal e binomial.
 ...
