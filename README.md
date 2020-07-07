@@ -25,4 +25,7 @@
 ### [Semana 4](https://github.com/KaikeWesleyReis/codenation-aceleradev-datascience/tree/master/semana_4)
 - Aprendizagem de estatística básica, compreendendo melhor distribuição normal e binomial.
 
+### [Semana 5](https://github.com/KaikeWesleyReis/codenation-aceleradev-datascience/tree/master/semana_5)
+- Estudos voltados para Testes de hipóteses e Testes estatísticos no geral.
+
 ...
