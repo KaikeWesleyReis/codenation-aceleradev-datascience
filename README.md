@@ -28,4 +28,7 @@
 ### [Semana 5](https://github.com/KaikeWesleyReis/codenation-aceleradev-datascience/tree/master/semana_5)
 - Estudos voltados para Testes de hipóteses e Testes estatísticos no geral.
 
+### [Semana 6](https://github.com/KaikeWesleyReis/codenation-aceleradev-datascience/tree/master/semana_6)
+- Aprendizagem focada no temas de redução de dimensionalidade utilizando PCA e seleção de variáveis com RFE.
+
 ...
