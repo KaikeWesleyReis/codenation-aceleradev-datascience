@@ -31,4 +31,7 @@
 ### [Semana 6](https://github.com/KaikeWesleyReis/codenation-aceleradev-datascience/tree/master/semana_6)
 - Aprendizagem focada no temas de redução de dimensionalidade utilizando PCA e seleção de variáveis com RFE.
 
+### [Semana 7](https://github.com/KaikeWesleyReis/codenation-aceleradev-datascience/tree/master/semana_7)
+- Desafio/Estudos com foco em Feature engineering e Processamento de texto para NPL
+
 ...
