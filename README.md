@@ -11,7 +11,7 @@
 ## Sumário
 
 ### [Desafio para seleção - 0](https://github.com/KaikeWesleyReis/codenation-aceleradev-datascience/tree/master/desafio_0)
-- A partir de um banco de dados fazer a predição das notas de matemática do ENEM 2016
+- A partir de um banco de dados fazer a predição das notas de matemática do ENEM 2016.
 
 ### Semana 1
 - Semana de introdução a área de Data Science. **Sem desafios em código**.
@@ -32,6 +32,6 @@
 - Aprendizagem focada no temas de redução de dimensionalidade utilizando PCA e seleção de variáveis com RFE.
 
 ### [Semana 7](https://github.com/KaikeWesleyReis/codenation-aceleradev-datascience/tree/master/semana_7)
-- Desafio/Estudos com foco em Feature engineering e Processamento de texto para NPL
+- Desafio/Estudos com foco em Feature engineering e Processamento de texto para NPL.
 
 ...
