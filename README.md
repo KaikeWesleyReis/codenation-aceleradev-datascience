@@ -34,4 +34,7 @@
 ### [Semana 7](https://github.com/KaikeWesleyReis/codenation-aceleradev-datascience/tree/master/semana_7)
 - Desafio/Estudos com foco em Feature engineering e Processamento de texto para NPL.
 
+### [Semana 8](https://github.com/KaikeWesleyReis/codenation-aceleradev-datascience/tree/master/semana_8)
+- Atividade de Regressão equivalente ao **Desafio para seleção**. O objetivo desta atividade é prever corretamente as notas de matemática do ENEM 2016.
+
 ...
