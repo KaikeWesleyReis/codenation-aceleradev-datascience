@@ -15,4 +15,4 @@ Neste desafio você aprenderá:
 ## Observações
 - O resultado da atividade da semana é o arquivo `answer.csv`
 - O notebook utilizado para construir o resultado do desafio é o `codigo_nota_enem2016.ipynb`
-- Essa atividade é equivalente ao desafio inicial, com a ideia de melhorar os resultados.
+- Essa atividade é equivalente ao desafio inicial, com a ideia de melhorar os resultados
