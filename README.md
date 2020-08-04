@@ -37,4 +37,7 @@
 ### [Semana 8](https://github.com/KaikeWesleyReis/codenation-aceleradev-datascience/tree/master/semana_8)
 - Atividade de Regressão equivalente ao **Desafio para seleção**. O objetivo desta atividade é prever corretamente as notas de matemática do ENEM 2016.
 
+### [Semana 9](https://github.com/KaikeWesleyReis/codenation-aceleradev-datascience/tree/master/semana_9)
+- Atividade de Classificação. Neste desafio o objetivo é descobrir quais estudantes estão fazendo a prova apenas para treino.
+
 ...
