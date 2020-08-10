@@ -40,4 +40,5 @@
 ### [Semana 9](https://github.com/KaikeWesleyReis/codenation-aceleradev-datascience/tree/master/semana_9)
 - Atividade de Classificação. Neste desafio o objetivo é descobrir quais estudantes estão fazendo a prova apenas para treino.
 
-...
+### Semana 10
+- Semana de encerramento do programa. Nenhuma aula/atividade foi passada. Semana aberta para conclusão de desafios anteriores.
